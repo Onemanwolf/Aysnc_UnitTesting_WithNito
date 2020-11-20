@@ -1,0 +1,7 @@
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.deps.json
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.csprojAssemblyReference.cache
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.AssemblyInfoInputs.cache
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.AssemblyInfo.cs
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.csproj.CopyComplete
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\AsyncExamples\Debug\netcoreapp3.1\AsyncExamples.dll

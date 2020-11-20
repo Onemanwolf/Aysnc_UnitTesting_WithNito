@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZooLXMnLy9UCVyeDS2HuR+fXJD4jz7lQnWzD4/rMv4oQNzm6mhv04ONxD8jO1iyHyTkcBnYBqa21p1p6O2/OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tioleson\\source\\repos\\AsyncExamples\\AsyncExamples\\AsyncExamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.asyncex\\5.1.0\\nito.asyncex.5.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.asyncex.context\\5.1.0\\nito.asyncex.context.5.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\nito.asyncex.coordination.5.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.asyncex.interop.waithandles\\5.1.0\\nito.asyncex.interop.waithandles.5.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.asyncex.oop\\5.1.0\\nito.asyncex.oop.5.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\nito.asyncex.tasks.5.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.cancellation\\1.1.0\\nito.cancellation.1.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.collections.deque\\1.1.0\\nito.collections.deque.1.1.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\nito.disposables\\2.2.0\\nito.disposables.2.2.0.nupkg.sha512",
+    "C:\\Users\\tioleson\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

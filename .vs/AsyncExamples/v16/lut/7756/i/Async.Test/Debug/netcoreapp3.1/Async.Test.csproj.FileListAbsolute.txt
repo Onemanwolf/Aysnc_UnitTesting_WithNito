@@ -1,0 +1,15 @@
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\testhost.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\testhost.exe
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\Async.Test.deps.json
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\Async.Test.runtimeconfig.json
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\Async.Test.runtimeconfig.dev.json
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\b\Async.Test\Debug\netcoreapp3.1\Async.Test.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\Async.Test\Debug\netcoreapp3.1\Async.Test.csprojAssemblyReference.cache
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\Async.Test\Debug\netcoreapp3.1\Async.Test.AssemblyInfoInputs.cache
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\Async.Test\Debug\netcoreapp3.1\Async.Test.AssemblyInfo.cs
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\Async.Test\Debug\netcoreapp3.1\Async.Test.csproj.CopyComplete
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\Async.Test\Debug\netcoreapp3.1\Async.Test.dll
+C:\Users\tioleson\source\repos\AsyncExamples\.vs\AsyncExamples\v16\lut\0\i\Async.Test\Debug\netcoreapp3.1\Async.Test.genruntimeconfig.cache
