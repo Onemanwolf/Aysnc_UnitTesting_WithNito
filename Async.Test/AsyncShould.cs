@@ -7,7 +7,7 @@ using Nito.AsyncEx;
 
 namespace Async.Test
 {
-    public class AynceShould
+    public class AsyncShould
     {
         [Fact]
         public async Task SomethingAsync_Throws_Exception()
